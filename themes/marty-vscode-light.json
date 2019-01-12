@@ -470,6 +470,15 @@
             }
         },
         {
+            "name": "Function call arguments",
+            "scope": [
+                "meta.function-call.arguments"
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
             "name": "Decorators",
             "scope": [
                 "meta.decorator variable.other.readwrite",
@@ -793,6 +802,7 @@
                 "string"
             ],
             "settings": {
+                "fontStyle": "regular",
                 "foreground": "#39807C"
             }
         },
