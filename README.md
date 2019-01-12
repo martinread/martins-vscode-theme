@@ -3,7 +3,7 @@
 Basic light & dark themes I made for use on my old Macbook Air.
 
 ## About:
-* The dark and light theme 'tokenColors' setttings are colour modifications that use the same structure of the [Dracula theme for Visual Studio Code](https://github.com/dracula/visual-studio-code).
+* The dark and light themes use the settings defined in the [Dracula theme for Visual Studio Code](https://github.com/dracula/visual-studio-code) with a different colour palette applied.
 * The editor colours for the dark theme uses the ['Apprentice' color scheme for Vim](https://github.com/romainl/Apprentice).
 
 ## Helpful resources:
