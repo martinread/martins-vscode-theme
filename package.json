@@ -1,0 +1,27 @@
+{
+    "name": "marty-vscode-theme",
+    "displayName": "marty-vscode-theme",
+    "description": "simple light and dark themes for visual studio code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marty's Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/marty-vscode-light.json"
+            },
+            {
+                "label": "Marty's Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/marty-vscode-dark.json"
+            }
+
+        ]
+    }
+}
